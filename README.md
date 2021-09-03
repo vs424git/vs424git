@@ -1,5 +1,4 @@
 - sup dudes. 
 - i'm a student that's usually bored all the time and fucks around in different programs.  
-- i'm trying to learn linux and it's going pretty ok tbh.
-- i like coffee but please don't call me networkchuck, i'll be known as a skid for the rest of my life if you do.
+- i'm trying to learn linux and python, it's going pretty ok tbh.
 - thanks for listening to my ted talk
